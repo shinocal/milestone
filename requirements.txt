@@ -1,0 +1,9 @@
+dill==0.2.5
+Flask==0.12.2
+gunicorn==19.6.0
+Jinja2==2.9.6
+requests>=2.9.1
+simplejson==3.8.0
+bokeh==0.12.6
+pandas=0.20.2
+Quandl=3.0.1
